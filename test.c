@@ -10,4 +10,8 @@ for(int i = 1; i < 6; i++) {
 for (int i = 6 ; i<=10; i++){
     printf("%d\n", i);
 }
+
+while(int i = 6 < 10) {
+	printf("%d\n", i);
+	i++;
 }
