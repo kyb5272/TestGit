@@ -11,3 +11,8 @@ for (int i = 6 ; i<=10; i++){
     printf("%d\n", i);
 }
 }
+while (int i = 1 < 6){
+    printf("%d\n", i);
+    i++;
+}
+}
